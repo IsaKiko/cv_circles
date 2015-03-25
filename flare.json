@@ -2,31 +2,40 @@
  "name": "flare",
  "children": [
   {
-   "name": "PhD in Bionmedical Engineering",
+   "name": "PhD",
    "children": [
     {
-     "name": "cluster",
+     "name": "Psychophysics",
      "children": [
-      {"name": "Psychophysics", "size": 3938},
-      {"name": "Project Management", "size": 3812},
-      {"name": "Supervision", "size": 6714},
-      {"name": "Presentations", "size": 743}
+      {"name": "Programming",
+        "children": [ 
+        {"name": "Matlab", "size": 700},
+        {"name": "C++", "size": 500},
+        {"name": "HTML", "size": 200},
+        {"name": "Python", "size": 250}
+        ]
+      },
+      {"name": "Experimental design", "size": 3812},
+      {"name": "Experiment conduction", "size": 743},
+      {"name": "Statistical analysis", "size": 6714}
      ]
     },
     {
-     "name": "graph",
+     "name": "Supervision",
      "children": [
-      {"name": "BetweennessCentrality", "size": 3534},
-      {"name": "LinkDistance", "size": 5731},
-      {"name": "MaxFlowMinCut", "size": 7840},
-      {"name": "ShortestPaths", "size": 5914},
-      {"name": "SpanningTree", "size": 3416}
+      {"name": "...", "size": 3534},
+      {"name": "...", "size": 5731},
+      {"name": "...", "size": 7840},
+      {"name": "...", "size": 5914},
+      {"name": "...", "size": 3416}
      ]
     },
     {
-     "name": "optimization",
+     "name": "Presentation",
      "children": [
-      {"name": "AspectRatioBanker", "size": 7074}
+      {"name": "Conferences", "size": 7074},        
+      {"name": "Journal papers", "size": 1500},
+      {"name": "Seminars","size": 3812}
      ]
     }
    ]
