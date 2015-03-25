@@ -19,28 +19,30 @@
       {"name": "Experiment conduction", "size": 743},
       {"name": "Statistical analysis", "size": 6714}
      ]
-    }]}]}
-    //,
-  //   {
-  //    "name": "Supervision",
-  //    "children": [
-  //     {"name": "...", "size": 3534},
-  //     {"name": "...", "size": 5731},
-  //     {"name": "...", "size": 7840},
-  //     {"name": "...", "size": 5914},
-  //     {"name": "...", "size": 3416}
-  //    ]
-  //   },
-  //   {
-  //    "name": "Presentation",
-  //    "children": [
-  //     {"name": "Conferences", "size": 7074},        
-  //     {"name": "Journal papers", "size": 1500},
-  //     {"name": "Seminars","size": 3812}
-  //    ]
-  //   }
-  //  ]
-  // },
+    },
+    {
+     "name": "Supervision",
+     "children": [
+      {"name": "...", "size": 3534},
+      {"name": "...", "size": 5731},
+      {"name": "...", "size": 7840},
+      {"name": "...", "size": 5914},
+      {"name": "...", "size": 3416}
+     ]
+    },
+    {
+     "name": "Presentation",
+     "children": [
+      {"name": "Conferences", "size": 7074},        
+      {"name": "Journal papers", "size": 1500},
+      {"name": "Seminars","size": 3812}
+     ]
+    },
+  {"name": "Visualization", "size": 16540}
+   ]
+  }
+  ]
+  } 
   // {
   //  "name": "animate",
   //  "children": [
